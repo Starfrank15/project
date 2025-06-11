@@ -1,5 +1,84 @@
-# Vue 3 + TypeScript + Vite
+TaskMaster Pro - Aplikasi Manajemen Tugas
+Versi: 1.0
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+===========================================
 
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
+Deskripsi Aplikasi:
+TaskMaster Pro adalah aplikasi web untuk mengelola tugas sehari-hari dengan antarmuka sederhana dan fungsional. Aplikasi ini membantu pengguna mencatat, memprioritaskan, dan melacak progres penyelesaian tugas.
+
+Fitur Utama:
+
+Tambah tugas baru dengan:
+
+Judul tugas
+
+Deskripsi (opsional)
+
+Tingkat prioritas (Rendah/Sedang/Tinggi)
+
+Tanggal deadline
+
+Kelola tugas:
+
+Tandai tugas sebagai selesai
+
+Lihat daftar tugas aktif
+
+Pantau tugas yang sudah selesai
+
+Statistik:
+
+Hitungan total tugas
+
+Progress bar penyelesaian
+
+Tampilan persentase progres
+
+Cara Menggunakan:
+
+Isi form "Tambah Tugas"
+
+Tekan submit untuk menyimpan
+
+Tandai checkbox ketika tugas selesai
+
+Progress akan terupdate otomatis
+
+Persyaratan Sistem:
+
+Browser modern (Chrome, Firefox, Edge versi terbaru)
+
+Koneksi internet (untuk versi online)
+
+Catatan Pengembang:
+Aplikasi ini dibangun menggunakan:
+
+VITE+VUE 
+
+CSS3
+
+JavaScript 
+
+
+
+Lisensi:
+Aplikasi ini bersifat open-source dan gratis digunakan.
+
+===========================================
+
+Tips Penggunaan:
+
+Gunakan prioritas untuk mengatur urgensi tugas
+
+Manfaatkan deskripsi untuk detail tugas yang kompleks
+
+Periksa secara berkala tugas yang mendekati deadline
+
+Versi Terbaru:
+Fitur yang akan datang:
+
+Pencarian tugas
+
+Filter berdasarkan prioritas
+
+Notifikasi deadline
